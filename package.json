@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "homepage": "",
+  "repository": "https://github.com/Gogollo/generator-package.git"
   "author": {
     "name": "Gogol",
     "email": "przemyslaw.gogolewski@programisci.eu",
@@ -13,8 +14,7 @@
   ],
   "main": "generators/index.js",
   "keywords": [
-    "",
-    "yeoman-generator"
+	""
   ],
   "dependencies": {
     "yeoman-generator": "^0.23.0",
