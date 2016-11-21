@@ -17,6 +17,6 @@ import javax.persistence.Table;
 @Getter
 @Setter
 public class <%=name%> extends BaseOB {
-    @Column(name = "NAME")
-    private String name;
+    @Column(name = "NAZWA")
+    private String nazwa;
 }

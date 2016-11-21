@@ -9,5 +9,5 @@ import lombok.Setter;
 @Getter
 @Setter
 public class <%=name%> extends BaseDTO {
-    private String name;
+    private String nazwa;
 }

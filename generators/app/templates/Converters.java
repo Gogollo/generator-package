@@ -27,7 +27,7 @@ public class <%=name%> {
             out = new <%=nameOB%>();
         }
         out.setId(in.getId());
-        out.setName(in.getName());
+        out.setNazwa(in.getNazwa());
         return out;
     }
 
@@ -46,7 +46,7 @@ public class <%=name%> {
         }
         <%=nameDTO%> out = new <%=nameDTO%>();
         out.setId(in.getId());
-        out.setName(in.getName());
+        out.setNazwa(in.getNazwa());
         return out;
     }
 }
